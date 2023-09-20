@@ -1,4 +1,4 @@
-const countVal = document.querySelector(".count-val");
+const countVal = document.querySelector (".count-val");
 const timeVal = document.querySelector(".time-val");
 const plus = document.querySelector(".plus");
 const minus = document.querySelector(".minus");
